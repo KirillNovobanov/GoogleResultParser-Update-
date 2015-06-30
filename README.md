@@ -2,7 +2,7 @@
 
 
 Главный класс для и команда для запуска приложения находится тут:
-src/main/java/selenium - Main.java
+src/main/java/selenium
 
 
 
